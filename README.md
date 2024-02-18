@@ -14,10 +14,10 @@ Follow the instructions below to set up and run the project locally on your mach
 ### Installation
 
 1. Clone the repository:
-<code>
-bash
-git clone https://github.com/arthurflorenco/FoodieLP.git
-</code>
+
+`bash
+git clone https://github.com/arthurflorenco/FoodieLP.git`
+
 
 Navegue até o diretório do projeto:
 <code>
