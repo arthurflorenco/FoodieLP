@@ -2,7 +2,7 @@
 
 This is a Landing Page for a restaurant that focuses on offering light and healthy meal options. Developed in React.js.
 
-<code>
+
   ## How to start
 
 Follow the instructions below to set up and run the project locally on your machine.
@@ -14,8 +14,8 @@ Follow the instructions below to set up and run the project locally on your mach
 ### Installation
 
 1. Clone the repository:
-
-```bash
+<code>
+bash
 git clone https://github.com/arthurflorenco/FoodieLP.git
 </code>
 
