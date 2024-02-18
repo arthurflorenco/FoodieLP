@@ -20,21 +20,21 @@ git clone https://github.com/arthurflorenco/FoodieLP.git`
 
 
 Navegue até o diretório do projeto:
-<code>
-cd foodie
-</code>
+
+`cd foodie`
+
 
 Instale as dependências:
-<code>
-npm install
-</code>
+
+`npm install`
+
 
 Execução
 
 Inicie o aplicativo:
-<code>
-npm run dev
-</code>
+
+`npm run dev`
+
 
 O aplicativo estará disponível em http://localhost:5173/ no seu navegador.
 
